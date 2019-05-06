@@ -1,0 +1,17 @@
+D:\Projetos\Registro-de-Ponto\ControleDePonto\bin\Debug\ControleDePonto.exe.config
+D:\Projetos\Registro-de-Ponto\ControleDePonto\bin\Debug\ControleDePonto.exe
+D:\Projetos\Registro-de-Ponto\ControleDePonto\bin\Debug\ControleDePonto.pdb
+D:\Projetos\Registro-de-Ponto\ControleDePonto\bin\Debug\AForge.dll
+D:\Projetos\Registro-de-Ponto\ControleDePonto\bin\Debug\AForge.Video.DirectShow.dll
+D:\Projetos\Registro-de-Ponto\ControleDePonto\bin\Debug\AForge.Video.dll
+D:\Projetos\Registro-de-Ponto\ControleDePonto\bin\Debug\AForge.xml
+D:\Projetos\Registro-de-Ponto\ControleDePonto\bin\Debug\AForge.Video.xml
+D:\Projetos\Registro-de-Ponto\ControleDePonto\bin\Debug\AForge.Video.DirectShow.xml
+D:\Projetos\Registro-de-Ponto\ControleDePonto\obj\Debug\ControleDePonto.csprojAssemblyReference.cache
+D:\Projetos\Registro-de-Ponto\ControleDePonto\obj\Debug\ControleDePonto.CaptureDevice.resources
+D:\Projetos\Registro-de-Ponto\ControleDePonto\obj\Debug\ControleDePonto.Properties.Resources.resources
+D:\Projetos\Registro-de-Ponto\ControleDePonto\obj\Debug\ControleDePonto.csproj.GenerateResource.cache
+D:\Projetos\Registro-de-Ponto\ControleDePonto\obj\Debug\ControleDePonto.csproj.CoreCompileInputs.cache
+D:\Projetos\Registro-de-Ponto\ControleDePonto\obj\Debug\ControleDePonto.csproj.CopyComplete
+D:\Projetos\Registro-de-Ponto\ControleDePonto\obj\Debug\ControleDePonto.exe
+D:\Projetos\Registro-de-Ponto\ControleDePonto\obj\Debug\ControleDePonto.pdb
